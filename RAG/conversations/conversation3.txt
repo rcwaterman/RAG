@@ -1,0 +1,7 @@
+Question: What was the result for TSM and why does it differ from MSC?
+
+Model Response:  The result of the TSM uncertainty analysis for the LIMC system was approximately 22% uncertainty. This value is based on the equation (2) in the context provided, which sums up the uncertainties in the potentiometer, LED output, and photoresistor.
+
+The MCS, however, produced different results every time due to its nature as a dynamic model capable of handling more complex systems. Although the difference between the two uncertainty analyses is small, it can be attributed to the complexities of each analysis method.
+
+The TSM is considered a "static" analysis, which implies that the result will always be the same for an unchanging system and is simplistic yet reliable. In contrast, the MCS is a more complex analysis producing different results due to its iterative nature. The MCS can provide a better estimate of uncertainty for more complex systems where multiple variables interact.

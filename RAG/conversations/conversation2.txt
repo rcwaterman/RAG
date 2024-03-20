@@ -1,0 +1,3 @@
+Question: What was the intent of the project that's detailed in the Project 2 Report?
+
+Model Response:  The intent of the project detailed in the Project 2 Report was to study the uncertainty within a light intensity measurement circuit (LIMC) using several computational methods. The project involved analyzing data collected from sensors within the circuit and verifying the efficacy of uncertainty analysis methods through cross-examination. Additionally, the report highlights some conclusions drawn from seemingly erroneous data, and the development of a deeper understanding of statistical analysis.
